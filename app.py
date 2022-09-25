@@ -123,7 +123,7 @@ def upload_file():
 
       
         # retorna a resposta da I.A. para o front end
-        return jsonify('deu upload' + file)  #y_pred[indice]
+        return jsonify('deu upload'  #y_pred[indice]
 
 
 if __name__ == '__main__':
