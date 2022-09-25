@@ -4,7 +4,7 @@ from flask_cors import CORS
 import os
 import shutil
 
-# import numpy as np
+import numpy as np
 # import tensorflow as tf
 # from tensorflow.keras import models
 
